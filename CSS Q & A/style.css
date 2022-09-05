@@ -1,0 +1,99 @@
+.heading {
+    text-align: center;
+    color: aliceblue;
+    background-color: rebeccapurple;
+    border: 5px solid brown;
+  }
+  .q1 {
+    background-color: aqua;
+    border: 5px solid orange;
+
+  }
+  .q3 {
+    display: inline-block;
+    background-color: aqua;
+    border: 5px solid orange;
+    width: 100%;
+  }
+  .q2 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q3 img {
+    width: 500px;
+  }
+  .q4 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q5 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q6 {
+    background-color: orange;
+    border: 5px solid aqua;
+  }
+  .q7 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q8 {
+    background-color: aqua;
+    border: 5px solid orange;
+    width: 100%;
+  }
+  .q8position {
+    background-image: url(image.jpg);
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+  }
+  .q9 {
+    background-color: aqua;
+    border: 5px solid orange;
+    
+  }
+  .q9attach {
+    background-image: url(image.jpg);
+    width: 250px;
+    height: 250px;
+    overflow: scroll;
+    background-attachment: fixed;
+    color: rgb(19, 17, 17);
+
+  }
+  .q10 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q11 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q12 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q13 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q14 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q15 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }.q16 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }.q17 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
+  .q18 {
+    background-color: aqua;
+    border: 5px solid orange;
+  }
